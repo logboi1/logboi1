@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react, html, css, javascript, react-native, gatsby and Visual Basic**
+- 💬 Ask me about **reactJs, html, css, javascript, react-native, node js and Visual Basic**
 
 - 📫 How to reach me **ogundeleibraheem@gmail.com**
 
