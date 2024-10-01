@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python** 🐍
 
-- 💬 Ask me about **reactJs, html, css, javascript, react-native, node js and flutter**
+- 💬 Ask me about **C#, reactJs, html, css, javascript, react-native, node js and flutter**
 
 - 📫 How to reach me **ogundeleibraheem@gmail.com**
 
